@@ -1,3 +1,2 @@
 # spamMailPrediction
-Project : Foundation of Data Science Lab
-          BTech AI&DS, BPIT
+Project : Foundation of Data Science Lab, III Semester, BTech AI&DS, BPIT.
